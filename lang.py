@@ -1,0 +1,46 @@
+LANGUAGES = {
+    'zh-TW': {
+        'app_title': 'EXIF 水印製作工具',
+        'browse_image': '瀏覽圖片',
+        'remove': '移除',
+        'remove_all': '全部移除',
+        'preview': '預覽',
+        'logo': '品牌標誌',
+        'output_path': '輸出路徑',
+        'browse': '瀏覽',
+        'output_filename': '輸出檔名',
+        'original_filename_plus': '原始檔名+',
+        'run': '執行',
+        'language': '語言',
+    },
+    'en': {
+        'app_title': 'EXIF WATERMARK MAKER',
+        'browse_image': 'Browse Image',
+        'remove': 'Remove',
+        'remove_all': 'Remove All',
+        'preview': 'Preview',
+        'logo': 'Logo',
+        'output_path': 'Output Path',
+        'browse': 'Browse',
+        'output_filename': 'Output Filename',
+        'original_filename_plus': 'original filename+',
+        'run': 'Run',
+        'language': 'Language',
+    },
+    'zh-CN': {
+        'app_title': 'EXIF 水印制作工具',
+        'browse_image': '浏览图片',
+        'remove': '移除',
+        'remove_all': '全部移除',
+        'preview': '预览',
+        'logo': '品牌标志',
+        'output_path': '输出路径',
+        'browse': '浏览',
+        'output_filename': '输出文件名',
+        'original_filename_plus': '原始文件名+',
+        'run': '执行',
+        'language': '语言',
+    }
+}
+
+CURRENT_LANG = 'zh-TW'
